@@ -1,15 +1,16 @@
 # The Great British Code Off
 
-### Computing isn't my forte, but baking and cake is...
+### Computing isn't my forte, but baking cake is...
 <br>
 <br>
 <br>
-<p>Personally, I have always struggled with understanding the world of code and computers; I’ve found it a place filled with jargon that enjoys flying straight over my head, and technical processes in which I could never become fluid. Therefore, in order for me to gain insight during this project, I needed to make meaningful comparisons between something I knew I understood, and computing. For me, I could find ample relevant examples connecting computer software and the art of baking, which is something I happen to have a lot of knowledge in. Our media is creative computing after all, so I took a unique, individual, and creative approach. 
+<p>Personally, I have always <em>struggled</em> with understanding the world of code and computers; I’ve found it a place filled with jargon that enjoys flying straight over my head, and technical processes in which I could never become fluid. Therefore, in order for me to gain insight during this project, I needed to make meaningful comparisons between something I knew I understood, and computing. For me, I could find ample relevant examples connecting computer software and the art of baking, which is something I happen to have a lot of knowledge in. Our media is creative computing after all, so I took a unique, individual, and <strong>creative</strong> approach. 
 </p>
 <br>
 
-![code cake 1](https://user-images.githubusercontent.com/94993598/143303545-e575dddf-0786-47b2-9d83-e5ae0f829e30.jpg)
+![code cake 1](https://user-images.githubusercontent.com/94993598/143303545-e575dddf-0786-47b2-9d83-e5ae0f829e30.jpg)![computer cupcakes](https://user-images.githubusercontent.com/94993598/143307336-484e71f7-7c8a-4d40-b9ce-5ab83d89a7af.jpeg)
 
+<br>
 <p>The actual term of ‘Open-Sourcing’ wasn’t created until the 1980s; but in the 1950s and 1960s, source code, the human-readable form of software, was distributed with the site, providing ability to change, delete and add new functions to existing codes. The source code acts in a similar way to a recipe, showing all the ingredients to make the software the code belongs to. The source code is laid out line by line, resembling a step-by-step instruction ‘recipe’ to ‘cook’ the finished site. Most people enjoy the finished software, in a similar way to an eccentrically decorated cake, but consider less the laborious process in which it took to get there. The source code is accessible for the public to see this process and see the work the creator did to get to the product to distribute and share for evolvement. 
 </p>
 <br>
