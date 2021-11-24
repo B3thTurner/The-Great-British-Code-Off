@@ -37,6 +37,9 @@
 <p>There are many real-life examples of companies taking inspiration from the code and concepts of other rivals due to ‘open sourcing’. This a concept comparable in baking, for example the controversy of the famous <strong>‘Colin the Caterpillar Cake’</strong>, made originally by Marks and Spencer, being stolen, and developed by almost every other British supermarket brand due to its popularity. An example in coding and software is the creation of <strong>‘stories’<em>[3]</em></strong> by <strong>Instagram</strong>, originally made popular on the social media site <strong>Snapchat</strong>. It is highly likely that ‘stories’ wouldn’t have been developed by <strong>Instagram</strong> if their owner <strong>Facebook</strong> hadn’t bought out <strong>Snapchat</strong> for $3 billion prior to this software development on the <strong>Instagram</strong> site. This ‘copy-cat’ approach of creating <strong>Instagram</strong> stories shows a successful new evolvement of another brand’s software, as it brought 250 million more users in that year.
 </p>
 <br>
+
+### Links 
+
 <br>
 1. https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma![image]
 <br>
