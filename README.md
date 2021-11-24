@@ -13,11 +13,15 @@
 
 ### Open Sourcing
 
+> Denoting software for which the original source code is made freely available and may be redistributed and modified. - <strong>Oxford Dictionary Definition</strong>
+
 <p>The actual term of ‘Open-Sourcing’ wasn’t created until the 1980s; but in the 1950s and 1960s, source code, the human-readable form of software, was distributed with the site, providing ability to change, delete and add new functions to existing codes. The source code acts in a similar way to a recipe, showing all the ingredients to make the software the code belongs to. The source code is laid out line by line, resembling a step-by-step instruction ‘recipe’ to ‘cook’ the finished site. Most people enjoy the finished software, in a similar way to an eccentrically decorated cake, but consider less the laborious process in which it took to get there. The source code is accessible for the public to see this process and see the work the creator did to get to the product to distribute and share for evolvement. 
 </p>
 <br>
 
 ### Close Sourcing
+
+> Intellectual property, esp computer source code, that is not made available to the general public by its creators - <strong>Oxford Dictionary Definition</strong>
 
 <p>Some software has source code that only the person, team, or organization who created it can modify exclusively; a secret recipe only trusted individuals are allowed to learn. People call this kind of software "proprietary" or "closed source" software. This somewhat inhibits the ability for ‘hackers’ to corrupt or misuse the information. This is where my comparisons can’t quite match between the art of code and baking, as copying someone’s recipe or stealing someone’s custard cannot lead to such dire consequences like the meddling of extensively intricate coding. There are examples of ‘meddling’ with code in history which have aided us, such as the <strong>Enigma Machine <em>[1]</em></strong>; but there’s also been incidents that have been close to detrimental, for example <strong>Matthew Bevan and Richard Pryce<em>[2]</em></strong>, who almost started a World War III in 1996 by dumping <strong>Korean Atomic Research Institute (KARI)</strong> information onto <strong>American military systems</strong>. These examples provide insight into the pros and cons of having access to source code.
 </p>
