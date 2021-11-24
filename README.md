@@ -7,7 +7,7 @@
 </p>
 <br>
 
-![code cake 1](https://user-images.githubusercontent.com/94993598/143303545-e575dddf-0786-47b2-9d83-e5ae0f829e30.jpg)![computer cupcakes](https://user-images.githubusercontent.com/94993598/143307336-484e71f7-7c8a-4d40-b9ce-5ab83d89a7af.jpeg)
+![computer cupcakes](https://user-images.githubusercontent.com/94993598/143307336-484e71f7-7c8a-4d40-b9ce-5ab83d89a7af.jpeg)
 
 <br>
 
