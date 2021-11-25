@@ -7,7 +7,9 @@
 </p>
 <br>
 
-![computer cupcakes](https://user-images.githubusercontent.com/94993598/143307336-484e71f7-7c8a-4d40-b9ce-5ab83d89a7af.jpeg)
+<p align="center">
+<img width="676" alt="cookies cartoon" src="https://user-images.githubusercontent.com/94993598/143432909-123bdd7e-f996-4044-a44c-e1edcd0e3f0b.png"> 
+</p>
 
 <br>
 
@@ -19,8 +21,10 @@
 </p>
 <br>
 
-![recipe example](https://user-images.githubusercontent.com/94993598/143311030-8da71b5b-bd43-4eb0-9762-68904af1ed74.jpg)![Github example](https://user-images.githubusercontent.com/94993598/143311176-1b6dae3f-49fb-4c12-9c4d-9d5149c7521d.png)
-
+![recipe example](https://user-images.githubusercontent.com/94993598/143311030-8da71b5b-bd43-4eb0-9762-68904af1ed74.jpg)
+<p align="center">
+<img width="652" alt="tiered cake cartoon" src="https://user-images.githubusercontent.com/94993598/143433058-886a64dc-00fc-4a3c-958f-83abab1d0efb.png">
+</p>
 
 <br>
 
@@ -33,6 +37,8 @@
 <br>
 
 ### Copying and Adapting Code 
+
+<img width="251" alt="stories cartoon" src="https://user-images.githubusercontent.com/94993598/143433209-2191c70d-477d-4423-9928-94407f2f505f.png" align="right">
 
 <p>There are many real-life examples of companies taking inspiration from the code and concepts of other rivals due to ‘open sourcing’. This a concept comparable in baking, for example the controversy of the famous <strong>‘Colin the Caterpillar Cake’</strong>, made originally by Marks and Spencer, being stolen, and developed by almost every other British supermarket brand due to its popularity. An example in coding and software is the creation of <strong>‘stories’<em>[3]</em></strong> by <strong>Instagram</strong>, originally made popular on the social media site <strong>Snapchat</strong>. It is highly likely that ‘stories’ wouldn’t have been developed by <strong>Instagram</strong> if their owner <strong>Facebook</strong> hadn’t bought out <strong>Snapchat</strong> for $3 billion prior to this software development on the <strong>Instagram</strong> site. This ‘copy-cat’ approach of creating <strong>Instagram</strong> stories shows a successful new evolvement of another brand’s software, as it brought 250 million more users in that year.
 </p>
